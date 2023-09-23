@@ -1,0 +1,34 @@
+body {
+  font-family: "Arial","Meiryo",sans-serif;
+}
+
+h1 {
+  font-family: "Josefin Sans",sans-serif;
+  font-size: 2.0em;
+  letter-spacing: 48px;
+  text-shadow: 0 10px 15px #808080;
+}
+
+html {
+  font-size: 20px;
+  text-align: center;
+}
+.class1 {
+  color: skyblue;
+}
+
+.class2 {
+  color: rgb(255, 192, 203);
+}
+
+.hc1 {
+  color: rgb(255, 192, 203);
+}
+
+.hc2 {
+  color: skyblue;
+}
+
+#parent > p {
+  font-weight: bold;
+}
